@@ -1446,7 +1446,7 @@ MODULE_HOBEIAN_TS0001_2:
   power: mains
   neutral: required
   output: relay
-  device_type: router
+  device_type: end_device
   stock_model_name: ZG-301Z
   stock_manufacturer_name: null
   stock_converter_manufacturer: Tuya
